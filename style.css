@@ -1,0 +1,39 @@
+
+body{
+    background-color:DarkOliveGreen;
+}
+
+h1{
+    font-family: 'Indie Flower', 'Lobster', cursive, sans-serif;
+    font-size: 6rem;
+    text-shadow: 50x 0 #232931;
+    margin : 30px;
+    color: rgb(64, 255, 47);
+}
+
+p{
+    font-size: 2rem;
+    color:rgb(64, 255, 47) ;
+    font-family: 'Indie Flower', cursive,'Lobster', sans-serif;
+}
+
+img{
+    width: 80%;
+}
+
+footer{
+    margin-top: 5%; 
+    color: white;
+    text-align: center;
+    font-family: 'Indie Flower', cursive,'Lobster', sans-serif;
+}
+.container{
+    width: 70%;
+    margin: auto; 
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
